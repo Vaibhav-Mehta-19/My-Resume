@@ -42,11 +42,13 @@ Vaibhav Mehta
    * Docker
    * Openshift
    * Kubernetes
+   
 -----
 
 ## EDUCATION
 ### B.tech (Computer Science and Engineering) - 9.55 CGPA
 #### Vellore Institute of Technology, Chennai
+
 ----
 
 ## WORK EXPERIENCE
@@ -61,6 +63,7 @@ Vaibhav Mehta
     * Completed Hybrid MultiCloud and MLOps (Integration of Machine Learning with DevOps) training and project.
     * Worked on a project combining Machine Learning algos, Computer Vision,etc. and deploying using DevOps tools.
     * Completed training for Git, Jenkins, Openstack and AWS, Terraform.
+
 ----
 
 ## PERSONAL PROJECTS
@@ -95,6 +98,7 @@ Trained the RCNN model with more than 80 percent accuracy.
 * Google Cloud Platform Fundamentals (04/2020) 
 * Getting Started with AWS Machine Learning (04/2020)
 * AWS Practitioner Training Certification (06/2020)
+
 ----
 
 ## PUBLICATIONS
