@@ -98,7 +98,7 @@ Trained the RCNN model with more than 80 percent accuracy.
 * Google Cloud Platform Fundamentals (04/2020) 
 * Getting Started with AWS Machine Learning (04/2020)
 * AWS Practitioner Training Certification (06/2020)
-
+* Aviatrix Certified Engineer (ACE) (05/2021)
 ----
 
 ## PUBLICATIONS
